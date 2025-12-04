@@ -1,0 +1,4 @@
+[[redirects]]
+for="/*"
+to="/index.html"
+status 200
